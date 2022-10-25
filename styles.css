@@ -1,0 +1,19 @@
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.container {
+	display: grid;
+	width: 500px;
+	height: 500px;
+	border: 1px solid black;
+}
+
+#button {
+	display: flex;
+	padding: 5px;
+	margin: 5px;
+}
